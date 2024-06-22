@@ -21,7 +21,7 @@ a{
       color: #000;
 }
 div.main_code {
-      background-image: url("../img/bg.jpeg");
+      background-image: url("./bg.jpeg");
       background-size: cover;
       background-position: top;
 
